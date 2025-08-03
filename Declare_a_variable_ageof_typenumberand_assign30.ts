@@ -1,0 +1,1 @@
+const age: Number = 30
