@@ -1,0 +1,1 @@
+const isOnline: boolean = false
