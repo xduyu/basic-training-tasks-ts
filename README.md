@@ -2,7 +2,6 @@
 
 A collection of 30 progressively more difficult tasks to practice and master TypeScript — from basic types to generics and React integration.
 
-
 ### 🟢 Level 1 – Easy
 Basic type annotations, variables, arrays, tuples, enums, and union types.
 
@@ -23,4 +22,5 @@ Basic type annotations, variables, arrays, tuples, enums, and union types.
    ```bash
    git clone https://github.com/xduyu/basic-training-tasks-ts.git
    cd basic-training-tasks-ts
+
 
