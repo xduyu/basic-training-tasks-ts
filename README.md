@@ -15,13 +15,13 @@ Basic type annotations, variables, arrays, tuples, enums, and union types.
 
 ---
 
-
 ## 🚀 How to Use
 
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/xduyu/basic-training-tasks-ts.git
    cd basic-training-tasks-ts
+
 
 
 
